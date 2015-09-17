@@ -1,5 +1,7 @@
 # Sample app to show Strict DMI in action
 
+[![Build Status](https://travis-ci.org/lukaszlenart/struts2-convention.svg?branch=master)](https://travis-ci.org/lukaszlenart/struts2-convention)
+
 Start Jetty with Maven (`mvn jetty:run`) and visit the follwoing urls:
 
  - http://localhost:8080/index -> you will be redirected to hello.action
